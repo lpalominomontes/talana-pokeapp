@@ -2,11 +2,11 @@
 
 Aplicacin Android desarrollada como prueba tcnica para Talana.
 
-##  Descripcin
+##  Descripcion
 Talana PokeApp consume la PokeAPI y permite:
-- Listar Pokmon
-- Ver detalle de cada Pokmon
-- Marcar y desmarcar Pokmon como favoritos
+- Listar Pokemon
+- Ver detalle de cada Pokemon
+- Marcar y desmarcar Pokemon como favoritos
 - Persistencia local de favoritos
 
 ##  Arquitectura
@@ -15,7 +15,7 @@ Talana PokeApp consume la PokeAPI y permite:
 - StateFlow
 - Clean separation (data / di / ui)
 
-##  Tecnologas
+##  Tecnologias
 - Kotlin
 - Jetpack Compose
 - Hilt (DI)
@@ -26,9 +26,9 @@ Talana PokeApp consume la PokeAPI y permite:
 ##  UI
 - Diseo basado en Figma
 - Uso de Material 3
-- Colores por tipo de Pokmon
+- Colores por tipo de Pokemon
 
-##  Ejecucin
+##  Ejecucion
 1. Clonar el repositorio
 2. Abrir en Android Studio
 3. Ejecutar en emulador o dispositivo fsico
